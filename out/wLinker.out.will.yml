@@ -1458,6 +1458,4 @@ module:
       ../.im.will.yml:
         hash: 4bd2ad8e081461ac0a9600e6aa2abea9
         size: 4662
-      wLinker.out.will.yml:
-        hash: 608e50f37b9ead7eaa8845c7c1900c2e
-        size: 36740
+      wLinker.out.will.yml: *ref_0
